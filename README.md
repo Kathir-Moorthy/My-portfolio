@@ -2,7 +2,7 @@ Here’s a GitHub README structure with the format you described:
 
 ---
 
-# 🖥️ Portfolio Website | Kathir Suresh Babu
+# 🖥️ Portfolio Website | Kathir Moorthy Suresh Babu
 
 Welcome to my personal portfolio website repository! This project showcases my professional skills and contact information using **HTML** and **CSS**.
 
